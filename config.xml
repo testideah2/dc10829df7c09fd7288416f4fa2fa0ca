@@ -3,12 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "saryagash365.kz"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. saryagash365.kz</name>
 
     <description>
-        Более 35 вариантов отдыха и лечения!
+        Каталог санаториев.
+Более 35 вариантов отдыха и лечения!
+www.saryagash365.kz
     </description>
 
     <author>Tadapp</author>
@@ -28,16 +30,16 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#13A821" />
+    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
 
 
     <platform name="android">
-        <icon src="res/android/icon/2572e26dacfce93a17a11fbf4e31a4c7.png" density="ldpi" />
-        <icon src="res/android/icon/349b81dfcf905beb87eab8ae3f04b0f6.png" density="mdpi" />
-        <icon src="res/android/icon/f09b4873a18f4a45bcd0dbecce9c39bb.png" density="hdpi" />
-        <icon src="res/android/icon/d23d3bf03ac817b7ac6ecf9cbe145e09.png" density="xhdpi" />
-        <icon src="res/android/icon/1eba508de9b7df8b221a8acb3b070638.png" density="xxhdpi" />
-        <icon src="res/android/icon/ac13b13f91d17cf4fd5da43fe4a5280e.png" density="xxxhdpi" />
+        <icon src="res/android/icon/88c40f727b0cd3ef07e2be641b1e5baa.png" density="ldpi" />
+        <icon src="res/android/icon/f34fea65257792ec019a950466af49b8.png" density="mdpi" />
+        <icon src="res/android/icon/11bd051b34c9aefcf057af6e0f8c29c1.png" density="hdpi" />
+        <icon src="res/android/icon/85999ddc654971a599081fe57ecc6bce.png" density="xhdpi" />
+        <icon src="res/android/icon/dac56b496faf3dc49d99b712f7ec5fe7.png" density="xxhdpi" />
+        <icon src="res/android/icon/7655d2d4c1b9458bd545a2e6efbef760.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/24021e669a018acb681909fb933699c6.png" density="port-hdpi"/>
         <splash src="res/android/screen/8ba90573918d1084c048fcb5c59f7442.png" density="port-ldpi"/>
